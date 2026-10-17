@@ -1,0 +1,4 @@
+Model,Params,Best Epoch (mean),CV Acc mean,CV Acc std,CV Loss mean,CV Loss std
+Wide-64 + Dropout 0.5,641,30,0.7801,0.0155,0.4418,0.033
+Compact Dense(24),241,39,0.7785,0.0196,0.4486,0.0385
+Deep-16-16 + Dropout 0.3,433,59,0.7931,0.0177,0.4526,0.0338
